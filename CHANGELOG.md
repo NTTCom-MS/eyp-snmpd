@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.7
+
+* Bugfix v3user encpass variable was not taken into account
+
 ## 0.2.6
 
 * Added **snmpd::extend**
