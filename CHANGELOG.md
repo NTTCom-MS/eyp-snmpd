@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.8
+
+* Added Ubuntu 20 support
+
 ## 0.2.7
 
 * Bugfix v3user encpass variable was not taken into account
