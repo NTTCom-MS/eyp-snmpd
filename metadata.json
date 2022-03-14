@@ -1,6 +1,6 @@
 {
   "name": "eyp-snmpd",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "author": "eyp",
   "summary": "SNMP agent management",
   "license": "Apache-2.0",
@@ -35,7 +35,7 @@
     },
     {
       "operatingsystem": "Ubuntu",
-      "operatingsystemrelease": [ "14.04", "16.04", "18.04" ]
+      "operatingsystemrelease": [ "14.04", "16.04", "18.04", "20.04" ]
     }
   ],
   "requirements": [
