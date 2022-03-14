@@ -38,7 +38,7 @@ class snmpd::params {
             {
               $servicectl_stop = "service ${service_name} stop"
             }
-            /^1[68].*$/:
+            /^1[68].*$|20.*$/:
             {
               $servicectl_stop = "systemctl stop ${service_name}"
             }
